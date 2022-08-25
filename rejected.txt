@@ -1,0 +1,7 @@
+Clip_00017: frame 26 is empty
+Clip_00017 reject labeling: empty frame
+
+Clip_00003: frame 69 is empty
+Clip_00003 reject labeling: empty frame
+고쳐짐
+============================================

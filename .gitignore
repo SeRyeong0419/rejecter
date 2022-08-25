@@ -1,0 +1,5 @@
+*.zip
+*.json
+extract*/
+가공완료/
+*.pyc
